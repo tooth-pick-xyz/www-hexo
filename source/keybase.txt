@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/tumayouzi
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.tooth-pick.xyz
+  * I am tumayouzi (https://keybase.io/tumayouzi) on keybase.
+  * I have a public key ASAiP-eGLAcNDBSXxzCCd-zRLPAIUdOa4KEi2aS7feYQmAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120223fe7862c070d0c1497c7308277ecd12cf00851d39ae0a122d9a4bb7de610980a",
+      "host": "keybase.io",
+      "kid": "0120223fe7862c070d0c1497c7308277ecd12cf00851d39ae0a122d9a4bb7de610980a",
+      "uid": "1866d73f3ac02d4557e9ab262cbc5619",
+      "username": "tumayouzi"
+    },
+    "merkle_root": {
+      "ctime": 1586620274,
+      "hash": "838ee1398fedf01060af78688c08ac4a443797e6cfe45c6b938d5ca2f47877e7222c2dd0bded563eb2284d05756b3c45a1b6a7a97737a916d4b06d5c4b1578af",
+      "hash_meta": "a19d33959ad9336369d4fdcbe66d2149297c30f92370622804ff61f131b47940",
+      "seqno": 15885446
+    },
+    "service": {
+      "entropy": "bo+ufjqFSV0yHYhzWzafCz+F",
+      "hostname": "www.tooth-pick.xyz",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.3.0"
+  },
+  "ctime": 1586620313,
+  "expire_in": 504576000,
+  "prev": "bdbb68f2aec1bc54d7393bdd7ff8b6144d32dbe0ff94da05a3b9ea56b8fbc87a",
+  "seqno": 30,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgIj/nhiwHDQwUl8cwgnfs0SzwCFHTmuChItmku33mEJgKp3BheWxvYWTESpcCHsQgvbto8q7BvFTXOTvdf/i2FE0y2+D/lNoFo7nqVrj7yHrEIOw8OuZXDR1wzr8qzBGedCZag6eEU2Jui4VXld73ujO8AgHCo3NpZ8RAOf3cjSzuM9XdBVZOYvYcsiQIwhacH1V5kApkx2jzCB3gq7FVRHbI/NHR2MnwwoxcdZtSD9XT9ke+yvI18Nz+BqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIGNx7G7oiT5Z8jZgLohwtIWbnRRa4hY2F3TbSP8zc/5jo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/tumayouzi
+
+==================================================================
